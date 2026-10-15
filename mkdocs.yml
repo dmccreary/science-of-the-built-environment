@@ -6,7 +6,7 @@
 site_name: 'The Science of the Built Environment'
 site_description: 'An interactive intelligent textbook on the science of the built environment: how buildings, materials, energy, air, light, and sound shape human health, comfort, and sustainability.'
 site_author: 'Dan McCreary'
-site_url: 'https://dmccreary.github.io/science-of-the-built-envrionment/'
+site_url: 'https://dmccreary.github.io/science-of-the-built-environment/'
 
 # Hooks — runs local Python before/after page processing.
 # `plugins/social_override.py` injects og:title, og:description, og:image,
@@ -22,7 +22,7 @@ hooks:
 
 # Repository
 repo_name: 'GitHub Repo'
-repo_url: 'https://github.com/dmccreary/science-of-the-built-envrionment'
+repo_url: 'https://github.com/dmccreary/science-of-the-built-environment'
 edit_uri: 'blob/main/docs'
 
 # Copyright
